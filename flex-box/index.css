@@ -1,0 +1,74 @@
+/*
+
+Tutorial:
+    https: //www.youtube.com/watch?v=-Wlt8NRtOpo
+    20:00
+*/
+
+
+.container {
+    border: 5px solid #ffcc5c;
+    display: flex;
+    
+    flex-direction: column;
+    /* 
+    #flex direction values -> [ row, column ]
+    
+
+    #justify-content values -> [flex-start (default) , flex-end, center]
+
+    justify-content: space-around;
+    
+    
+    
+    
+    ###
+    
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+
+    ###
+    align-items: center;
+
+    */
+    
+
+
+}
+/*
+.home{
+    margin-right: auto;
+}
+*/
+/*
+.logout{
+    margin-left: auto;
+}
+*/
+/*
+.container > div{
+    flex: 1;
+}
+
+.container > .search {
+    flex: 2;
+}
+*/
+/*
+.home{
+    flex: 1;
+} 
+.logout {
+    flex: 1;
+}
+
+*/
+/*
+.logout{
+    align-self: flex-start;
+}
+.home{
+    align-self: flex-end;
+}
+*/
